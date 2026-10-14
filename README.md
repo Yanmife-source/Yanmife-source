@@ -45,7 +45,7 @@ I play chess.
  
 ## Contact
  
-[oluwayanmifeokunlola@gmail.com](mailto:oluwayanmifeokunlola@gmail.com)
+[oluwayanmifenokunlola@gmail.com](mailto:oluwayanmifenokunlola@gmail.com)
  
 <!--
 **Yanmife-source/Yanmife-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
